@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-61723020","path":"/blogs/vue3/2022/0520.html","title":"数据结构笔记（1）","lang":"en-US","frontmatter":{"title":"数据结构笔记（1）","date":"2022/05/20","tags":["线性结构"],"categories":["数据结构"]},"headers":[],"git":{},"filePathRelative":"blogs/vue3/2022/0520.md"}');export{t as data};

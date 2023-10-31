@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-215c6191","path":"/blogs/vue2/2022/0322.html","title":"vue学习笔记（2）","lang":"en-US","frontmatter":{"title":"vue学习笔记（2）","date":"2022/03/22","tags":["Vuex"],"categories":["vue2"]},"headers":[],"git":{},"filePathRelative":"blogs/vue2/2022/0322.md"}');export{e as data};
